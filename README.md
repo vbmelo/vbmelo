@@ -15,7 +15,6 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -25,11 +24,13 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+<a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/C?style=for-the-badge&logo=graphql&logoColor=white"></a>
+
 #
 
 ## 📊  My Stats  📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo&show_icons=true&theme=dark)](https://github.com/vbmelo/vbmelo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmelo&layout=compact&theme=dark)](https://github.com/lucasgaldinomt/github-readme-stats)
+[![Anurag's GitHub stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
