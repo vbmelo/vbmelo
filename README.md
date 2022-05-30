@@ -26,10 +26,6 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
-<a href="https://www.opengl.org//"><img height= "35" src= "https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"></a>
-<a href="https://swift.org/"><img height= "35" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
-<a href="https://developer.apple.com/xcode/"><img height= "35" src= "https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"></a>
-
 #
 
 ## 📊  My Stats  📊
