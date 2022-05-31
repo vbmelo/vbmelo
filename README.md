@@ -23,13 +23,13 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-<a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/C?style=for-the-badge&logo=graphql&logoColor=white"></a>
+
+<!-- <a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/C?style=for-the-badge&logo=graphql&logoColor=white"></a> -->
 
 #
 
 ## 📊  My Stats  📊
-[![Anurag's GitHub stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
 #
