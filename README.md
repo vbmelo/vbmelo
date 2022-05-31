@@ -49,7 +49,8 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://discordapp.com/users/332204395414552577"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 #
-
+<!-- 
 <p align="center">
     <img src="https://media1.tenor.com/images/b56338cad8a2193927f54b48fa21cbcb/tenor.gif" width="200%" height="200%"/>
 </p>
+ -->
