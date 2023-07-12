@@ -1,11 +1,10 @@
 # Hi! My name is Victor!
 
-#### I'm a brazilian Computer Science and Engineering student at University of Aveiro in Portugal! I am passionate about technology, music, games and yes, I'm a hardware nerd too.
+#### I'm a brazilian Computer Science and Engineer, living in Aveiro, Portugal! I am passionate about technology, music, games and yes, I'm a hardware nerd too.
 My aspirations are to drive change and make the world a better place. To me this means helping people by building great and usefull software. I also want to keep learning and growing my skills so that I can strive to be the most successful version of myself.
 
-### Currently I am a Frontend Software Developer (React.Js) at <a href="htttps://msgroup.pt/">MSGroup</a>
+### Currently I am a Fullstack Software Developer (React, Typescript, Node, Java, Springboot) at <a href="https://www.pareva.de">Pareva</a>
     
-
 🖖🏻 Lambda, Lambda, Lambda 🖖🏻
 #
 
