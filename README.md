@@ -34,15 +34,11 @@ My aspirations are to drive change and make the world a better place. To me this
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
-#
+## 🖥  Work Setup  🖥
+<p>MacBook Pro 2023 16" M2 Pro 32GB Ram</p>
 
 ## 🖥  Windows Setup  🖥
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwik9IS-z4f4AhUOyxoKHV7tCqYQFnoECAoQAQ&url=https%3A%2F%2Fwww.amd.com%2Fpt%2Fproducts%2Fapu%2Famd-ryzen-5-5600h&usg=AOvVaw3CJ3i0ZpJG4zh40we5L-g6"><img height= "40" src= "(https://s13emagst.akamaized.net/products/40450/40449749/images/res_3caa03b6ce14858dcdd9cc18051e807b.jpg)"></a>
-<a href="https://www.nvidia.com/en-eu/geforce/graphics-cards/gtx-1650/"><img height= "40" src= "https://m.media-amazon.com/images/S/abs-image-upload-na/a/AmazonStores/A2EUQ1WTGCTBG2/cc1cae3a8eaf4c60e446c81b084cd5a6.w265.h279.png"></a>
-<a href="https://www.amazon.com/Acer-AN515-45-R83Z-Hexa-Core-Processor-Keyboard/dp/B093HP62RN"><img height= "40" src= "https://img.olhardigital.com.br/wp-content/uploads/2021/10/acer-nitro-5-1000x450.jpg"></a>
-<a href="https://www.asus.com/pt/Displays-Desktops/Monitors/Gaming/VG248QE/"><img height= "40" src= "https://logowik.com/content/uploads/images/424_asus.jpg"></a>
-
-#
+<p>Ryzen 7700x <br />RTX3070ti <br />16GB DDR5 Kingston Fury RGB <br />EVGA 750w PSU <br />NZXT H7 Flow RGB <br />Mars ML360 Watercooler <br /> MSI PRO B650-P wifi </p>
 
 ## 👇🏻  You can find me here  👇🏻
 <a href="mailto:vbmelox@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
