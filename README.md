@@ -1,14 +1,17 @@
-# Hi! My name is Victor!
+### 🖖🏻 Lambda, Lambda, Lambda Nerds! 
 
-#### I'm a brazilian Computer Science and Engineer, living in Aveiro, Portugal! I am passionate about technology, music, games and yes, I'm a hardware nerd too.
-My aspirations are to drive change and make the world a better place. To me this means helping people by building great and usefull software. I also want to keep learning and growing my skills so that I can strive to be the most successful version of myself.
+# Nice to meet you, I'm Victor!
 
-### Currently I am a Fullstack Software Developer (React, Typescript, Node, Java, Springboot) at <a href="https://www.pareva.de">Pareva</a>
-    
-🖖🏻 Lambda, Lambda, Lambda 🖖🏻
+#### A brazilian Computer Science and Engineer, living in Aveiro, Portugal! I am passionate about technology, music, games and yes, a hardware nerd too.
+
+My aspirations are to drive change and make the world a better place. To me this means helping people by building cool, creative and usefull software. 
+I also want to keep learning and growing my skills so that I can strive to be the most successful version of myself.
+
+### 💼 Currently I'm a Fullstack Software Engineer (React, Typescript, Node, Java, Springboot) at <a href="https://www.pareva.de">Pareva Gmbh</a>
+
 #
 
-## ⭐️  Some of the Dev technologies I know  ⭐️
+## Some of the technologies I know 
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
@@ -26,21 +29,17 @@ My aspirations are to drive change and make the world a better place. To me this
 <a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 
-<!-- <a href="https://www.cplusplus.com"><img height= "35" src= "https://img.shields.io/badge/C?style=for-the-badge&logo=graphql&logoColor=white"></a> -->
-
-#
-
-## 📊  My Stats  📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
+## 📊  My Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🖥  Work Setup  🖥
+## 🖥  Work Setup   
 <p>MacBook Pro 2023 16" M2 Pro 32GB Ram</p>
 
-## 🖥  Windows Setup  🖥
+## 🖥  Windows Setup  
 <p>Ryzen 7700x <br />RTX3070ti <br />16GB DDR5 Kingston Fury RGB <br />EVGA 750w PSU <br />NZXT H7 Flow RGB <br />Mars ML360 Watercooler <br /> MSI PRO B650-P wifi </p>
 
-## 👇🏻  You can find me here  👇🏻
+## 👇🏻  You can find me here  
 <a href="mailto:vbmelox@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/victor_bmelo/"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/victorbarrosmelo/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
