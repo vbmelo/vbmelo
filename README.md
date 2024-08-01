@@ -45,9 +45,4 @@ I also want to keep learning and growing my skills so that I can strive to be th
 <a href="https://www.linkedin.com/in/victorbarrosmelo/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/332204395414552577"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-#
-<!-- 
-<p align="center">
-    <img src="https://media1.tenor.com/images/b56338cad8a2193927f54b48fa21cbcb/tenor.gif" width="200%" height="200%"/>
-</p>
- -->
+[#Code like Jesus Skates.](https://youtu.be/GUVQHD6j9S0)
