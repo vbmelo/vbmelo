@@ -1,13 +1,12 @@
 ### 🖖🏻 Lambda, Lambda, Lambda Nerds! 
 
 # Nice to meet you, I'm Victor!
-#### Guitar and Counter-Strike player, Nerdcaster, Sim Racer, and Cool Cars Enthusiast.
+Passionate about technology, games, music, pets, cars, and enjoying life with family and good friends.
 
-##### Passionate about technology, games, music, pets, cars, and enjoying life with family and good friends.
+I code because I love it. [#codeLikeJesusSkates](https://youtu.be/GUVQHD6j9S0)
 
-###### I code because I love it. Working with it is just a bonus. [#Code like Jesus Skates.](https://youtu.be/GUVQHD6j9S0)
+###### Não troco o meu "oxente" pelo "ok" de ninguém. Made in Maceió, Brazil. 
 
-###### Made in Maceió, Brazil
 
 ### 💼 Fullstack Software Engineer working with React, Typescript, Springboot and Java at <a href="https://www.pareva.de"> Pareva.de <img height= "20" src= "https://avatars.githubusercontent.com/u/152971916?s=400&u=8da1f0db654fee0f34e53822a0770e762e849703&v=4"></a>
 
