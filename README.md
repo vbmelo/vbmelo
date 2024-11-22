@@ -1,13 +1,15 @@
 ### 🖖🏻 Lambda, Lambda, Lambda Nerds! 
 
 # Nice to meet you, I'm Victor!
+#### Guitar and Counter-Strike player, Nerdcaster, Sim Racer, and Cool Cars Enthusiast.
 
-#### A brazilian Computer Science and Engineer, living in Aveiro, Portugal! I am passionate about technology, music, games and yes, a hardware nerd too.
+##### Passionate about technology, games, music, pets, cars, and enjoying life with family and good friends.
 
-My aspirations are to drive change and make the world a better place. To me this means helping people by building cool, creative and usefull software. 
-I also want to keep learning and growing my skills so that I can strive to be the most successful version of myself.
+###### I code because I love it. Working with it is just a bonus. [#Code like Jesus Skates.](https://youtu.be/GUVQHD6j9S0)
 
-#### 💼 Currently I'm a Fullstack Software Engineer (React, Typescript, Springboot, Java, Kotlin) at <a href="https://www.pareva.de"> pareva <img height= "20" src= "https://avatars.githubusercontent.com/u/152971916?s=400&u=8da1f0db654fee0f34e53822a0770e762e849703&v=4"></a>
+###### Made in Maceió, Brazil
+
+### 💼 Fullstack Software Engineer working with React, Typescript, Springboot and Java at <a href="https://www.pareva.de"> Pareva.de <img height= "20" src= "https://avatars.githubusercontent.com/u/152971916?s=400&u=8da1f0db654fee0f34e53822a0770e762e849703&v=4"></a>
 
 ## Some of the technologies I know 
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -53,5 +55,3 @@ I also want to keep learning and growing my skills so that I can strive to be th
 <a href="https://www.instagram.com/victor_bmelo/"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/victorbarrosmelo/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/332204395414552577"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-[#Code like Jesus Skates.](https://youtu.be/GUVQHD6j9S0)
