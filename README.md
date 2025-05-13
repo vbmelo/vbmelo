@@ -1,6 +1,6 @@
 # 🖖🏻 Lambda, Lambda, Lambda Nerds, I'm Victor! 
 ###### Não troco o meu "oxente" pelo "ok" de ninguém.
-###### I love gaming, cool cars, nice music and having a good time with familly, friends and my loyal dog Pantufa.
+###### I love gaming, cool cars, nice music and having a good time with familly, friends and my loyal dog Pantufa. Also, Miata Is Always The Answer.
 ###### I code because I love doing it. [#codeLikeJesusSkates](https://youtu.be/GUVQHD6j9S0)
 ###### Fullstack Software Engineer working with React, Typescript, Springboot and Java at <a href="https://www.pareva.de"> Pareva.de <img height= "20" src= "https://avatars.githubusercontent.com/u/152971916?s=400&u=8da1f0db654fee0f34e53822a0770e762e849703&v=4"></a>
 
